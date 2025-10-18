@@ -13,3 +13,6 @@ CREATE DATABASE firma
     CONNECTION LIMIT = -1
     IS_TEMPLATE = False;
 
+--komemt
+
+
